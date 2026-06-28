@@ -1,5 +1,5 @@
-# 💫 About Me:
-I am Sneha Goyal <br>3rd year B.Tech CSE student at Graphic Era University,Dehradun<br>CGPA:- 9.31<br>I have worked on 4 projects till now :<br>- Smart Attendance System using Face Recognition<br>- OS traffic manager for process<br>- Cheap medicine finder<br>- Stock price prediction:AI & ML<br>I have knowledge in programming languages :<br>- C,C++,Java,Python,HTML,CSS,JavaScript<br>Skills :<br>Full Stack Development<br>Communication
+#  About Me:
+I am Sneha Goyal <br>4TH year B.Tech CSE student at Graphic Era University,Dehradun<br>CGPA:- 9.25<br>I have knowledge in programming languages :<br>- C,C++,Java,Python<br>Skills :<br>Full Stack Development - HTML, CSS, JavaScript, MERN Stack<br>MERN Stack - Skill Gap Intelligence Platform, AI Code Generator(GenAI), SQL Query Generator(GenAI)<br>HerSuraksha web app(HTML, CSS, JS)<br>Mini Teachable Compiler with C, C++, Java, Python and compiler phases<br>Smart Attendance System using Face Recognition 
 
 
 ## 🌐 Socials:
